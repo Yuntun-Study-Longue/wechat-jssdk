@@ -1,7 +1,7 @@
 {
-  "name": "wechat-jssdk",
+  "name": "yuntun-wechat-jssdk",
   "version": "5.0.7",
-  "description": "Next-Generation WeChat JS-SDK integration with NodeJS",
+  "description": "Fork from JasonBoy. Next-Generation WeChat JS-SDK integration with NodeJS",
   "main": "./lib/index.js",
   "source": "./lib/client.js",
   "browser": "./dist/client.umd.js",
@@ -31,7 +31,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JasonBoy/wechat-jssdk.git"
+    "url": "git+https://github.com/Yuntun-Study-Longue/wechat-jssdk.git"
   },
   "keywords": [
     "wechat",
@@ -41,12 +41,12 @@
     "wechat share",
     "mini program"
   ],
-  "author": "Jason Jiang",
+  "author": "Alichs",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/JasonBoy/wechat-jssdk/issues"
+    "url": "https://github.com/Yuntun-Study-Longue/wechat-jssdk/issues"
   },
-  "homepage": "https://github.com/JasonBoy/wechat-jssdk#readme",
+  "homepage": "https://github.com/Yuntun-Study-Longue/wechat-jssdk#readme",
   "dependencies": {
     "date-fns": "2.9.0",
     "debug": "4.1.1",
